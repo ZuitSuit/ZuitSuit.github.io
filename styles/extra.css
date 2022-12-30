@@ -2,8 +2,9 @@
 .fancy {
     background-image:
       url("https://picsum.photos/500/500");
-    background-size: 310% auto;
+    background-size: 110% auto;
     background-position: center;
+    backdrop-filter: blur(2px); 
     color: transparent;
     -webkit-background-clip: text;
     font-size: 15em;
