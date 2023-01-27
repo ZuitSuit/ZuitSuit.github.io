@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07b43a73-0a6f-4b8d-808d-0208812748fb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/gizmo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/kotic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/kotiq.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/stich.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery-3.6.3.slim.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/carousel.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="07b43a73-0a6f-4b8d-808d-0208812748fb" name="Changes" comment="Before carousel logic refactoring">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/carousel.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,8 +74,16 @@
       <updated>1672575288868</updated>
       <workItem from="1672575290046" duration="3781000" />
       <workItem from="1674564539278" duration="4007000" />
-      <workItem from="1674753362697" duration="6688000" />
+      <workItem from="1674753362697" duration="8642000" />
     </task>
+    <task id="LOCAL-00001" summary="Before carousel logic refactoring">
+      <created>1674818470514</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674818470514</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,5 +102,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Before carousel logic refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="Before carousel logic refactoring" />
   </component>
 </project>

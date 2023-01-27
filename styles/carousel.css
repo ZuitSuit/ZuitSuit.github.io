@@ -9,9 +9,10 @@
 
 .slides-container {
     width: 100%;
+    padding: 3vw;
     display: flex;
     flex-direction: row;
-    gap: 5vw;
+    gap: 3vw;
     justify-content: center;
     align-items: center;
 }
